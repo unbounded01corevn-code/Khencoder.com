@@ -1,0 +1,8 @@
+long long
+push_back
+vector<long long>
+pair<long long,long long>
+for (long long i = 1; i <= n; ++i)
+sort(a.begin(), a.end());
+reverse(a.begin(), a.end());
+
